@@ -1,0 +1,73 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/* header */
+
+header {
+	background-color: white;
+	color: black;
+	display:flex;
+	padding: 10;
+}
+
+#title {
+	font-size: 30;
+	font-weight: bolder;
+}
+
+#headerButtonList {
+	display:flex;
+	float: right;
+	text-align: right;
+	margin: 0 auto;
+}
+
+.headerButton {
+	list-style-type: none;
+	margin:10;
+}
+
+/* body */
+
+body {
+	background: #feac5e; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #c8c6f1, #92d6e2, #e1bceb); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #c8c6f1da, #92d6e2a2, #e1bceb9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* artists.html */
+
+#artists {
+	width: 60%;
+	margin: auto;
+}
+
+.card {
+	background-color: white;
+	padding: 10;
+	width: 90%;
+	margin: 20 0 10 0;
+	border-radius: 15px;
+	text-align: center;
+}
+
+.artistName {
+	font-size: 25;
+	margin: 10;
+}
+
+.cardTable {
+	margin: auto;
+}
+
+/* COMMON */
+
+.h2title {
+	text-align: center;
+	margin: 10 auto;
+	padding: 10;
+	letter-spacing: 10;
+	font-size: 30;
+}
