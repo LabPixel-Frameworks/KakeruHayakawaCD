@@ -54,12 +54,24 @@ body {
 }
 
 .artistName {
-	font-size: 25;
-	margin: 10;
+	font-size: 30;
+	letter-spacing: 3;
+	padding: 20;
 }
 
 .cardTable {
 	margin: auto;
+}
+
+.musicName {
+	padding: 20;
+	font-size: 20;
+	letter-spacing: 3;
+}
+
+.comment {
+	padding: 20;
+	font-size: 20;
 }
 
 /* COMMON */
