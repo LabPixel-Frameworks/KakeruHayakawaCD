@@ -1,7 +1,7 @@
 
 document.write('<header>');
-document.write('<div id="title">よくわかる（かもしれない）音楽Ⅰ</div>');
-document.write('<ul id="headerButtonList">');
+document.write('<div class="title">よくわかる（かもしれない）音楽Ⅰ</div>');
+document.write('<ul class="headerButtonList">');
 document.write('	<li class="headerButton"><a href="./index.html">ホーム</a></li>');
 document.write('	<li class="headerButton"><a href="">商品ページ</a></li>');
 document.write('	<li class="headerButton"><a href="./artists.html">アーティスト紹介</a></li>');

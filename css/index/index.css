@@ -1,0 +1,15 @@
+.frexcard {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 5%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.frexcard>.card {
+    margin: 10px;
+    width: 40%;
+}
