@@ -24,8 +24,9 @@
 
 .card-desc {
     padding: 20;
-    font-size: 20;
-    letter-spacing: 3;
+    font-size: 25;
+    letter-spacing: 5;
+    font-weight: bolder;
 }
 
 .card-comment {
